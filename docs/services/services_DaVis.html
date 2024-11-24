@@ -59,6 +59,10 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="EcoPulse - Data Analysis and Visualization">
+<meta property="og:image" content="figures/charts-6246450_640.png">
+<meta property="og:site-name" content="Quarto">
+<meta property="og:locale" content="es_ES">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -79,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../home.html" rel="" target="">
+    <a class="nav-link" href="../index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -136,20 +140,24 @@ ul.task-list li input[type="checkbox"] {
   </div>
   <div class="about-contents page-columns page-full"><main class="content page-columns page-full" id="quarto-document-content">
 <div class="column-page">
-<p>Comprehensive analysis of environmental data to identify trends and gain insights</p>
+<section id="comprehensive-analysis-of-environmental-data-to-identify-trends-and-gain-insights" class="level3">
+<h3 data-anchor-id="comprehensive-analysis-of-environmental-data-to-identify-trends-and-gain-insights">Comprehensive analysis of environmental data to identify trends and gain insights</h3>
 <ul>
 <li>Sufficiency and power analysis to determine the strengths and limitations of a data set</li>
 <li>Statistical analysis of water quality data to monitor pollutants</li>
 <li>Trend analysis to detect changes in invertebrate communities over time</li>
 <li>State of the resource reporting to quantify the health of a watershed</li>
 </ul>
-<p>Analysis are supported with the creation of clear and informative visual representations of data</p>
+</section>
+<section id="analysis-are-supported-by-clear-and-informative-visual-representations-of-data" class="level3">
+<h3 data-anchor-id="analysis-are-supported-by-clear-and-informative-visual-representations-of-data">Analysis are supported by clear and informative visual representations of data</h3>
 <ul>
 <li>Maps when spatial representation matters in the data</li>
 <li>Distributions when you have lots and lots of data points and want to study where and how the data points are distributed</li>
 <li>Correlations identify relationships among multiple variables</li>
 <li>Rankings compare the position or performance of multiple items with respect to each other</li>
 </ul>
+</section>
 </div>
 
 
@@ -380,9 +388,34 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">Patrick Schaefer - ecopulseanalytics[at]gmail.com</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 

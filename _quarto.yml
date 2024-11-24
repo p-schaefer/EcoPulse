@@ -1,11 +1,16 @@
 project:
   type: website
   output-dir: docs
-  # resources:
-  #   - resources/3 Overview of environmental study designs.pdf
 
 website:
   title: "EcoPulse"
+  open-graph:
+      locale: es_ES
+      site-name: Quarto
+  page-footer:
+    center:
+      "Patrick Schaefer - ecopulseanalytics[at]gmail.com"
+    background: info
   navbar:
     #logo: "figures/logo.png"
     #logo-href: home.qmd
@@ -15,7 +20,7 @@ website:
     search: false
     left:
       - text: Home
-        href: home.qmd
+        href: index.qmd
       - text: "Services"
         menu:
          - text: Data Analysis and Visualization
@@ -37,6 +42,8 @@ format:
   html:
     theme: minty
     css: styles.css
+    email-obfuscation: javascript
+    link-external-newwindow: true
     #toc: true
 
 editor: source

@@ -7,7 +7,7 @@ about:
 
 ::: {.column-page}
 
-Provide customized training to suit your needs
+### Provide customized training to suit your needs
 
 -   Benthic invertebrate collection and identification
 -   Basic, intermediate and advanced R instruction

@@ -10,11 +10,11 @@ about:
     - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/patrick-schaefer-66a72a59
+    - text: "{{< fa envelope >}} Email"
+      url: mailto:ecopulseanalytics@gmail.com
 ---
 
 Patrick Schaefer is an environmental scientist with over a decade of experience in public and private sectors. His expertise is in developing robust statistical tools, models and data-driven solutions to any environmental problem. He merges expertise in functional statistical programming, with open source tools and data sets to achieve robust and repeatable results for projects of any size and complexity.
-
-Patrick has worked in public and private sectors of the Canadian environmental field for over a decade, specializing in environmental monitoring and reporting. Patrick works with clients big and small, within any budget.
 
 ## Education and Certifications
 

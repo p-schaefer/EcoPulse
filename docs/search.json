@@ -4,7 +4,7 @@
     "href": "contact.html",
     "title": "Patrick Schaefer",
     "section": "",
-    "text": "Patrick Schaefer is an environmental scientist with over a decade of experience in public and private sectors. His expertise is in developing robust statistical tools, models and data-driven solutions to any environmental problem. He merges expertise in functional statistical programming, with open source tools and data sets to achieve robust and repeatable results for projects of any size and complexity.\nPatrick has worked in public and private sectors of the Canadian environmental field for over a decade, specializing in environmental monitoring and reporting. Patrick works with clients big and small, within any budget."
+    "text": "Patrick Schaefer is an environmental scientist with over a decade of experience in public and private sectors. His expertise is in developing robust statistical tools, models and data-driven solutions to any environmental problem. He merges expertise in functional statistical programming, with open source tools and data sets to achieve robust and repeatable results for projects of any size and complexity."
   },
   {
     "objectID": "contact.html#education-and-certifications",
@@ -49,8 +49,8 @@
     "text": "Aquatic Ecosystem Assessment Dashboard\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning Model Predicting Ontario’s Fish Populations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkshops\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nihydro\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "home.html",
-    "href": "home.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "EcoPulse",
     "section": "",
     "text": "EcoPulse is a small environmental consulting company specialized in innovate problem solving to answer important environmental questions. My focus is on sharing the stories told by data in interactive and engaging formats. I achieve this through tool and dashboard development as well as robust statistical analysis. Scientific rigor and repeatability are a core focus of my work and I use primarily open-source tools and data to achieve this, providing both transparency and cost-savings."
@@ -60,7 +60,7 @@
     "href": "services/services_DaVis.html",
     "title": "Data Analysis and Visualization",
     "section": "",
-    "text": "Comprehensive analysis of environmental data to identify trends and gain insights\n\nSufficiency and power analysis to determine the strengths and limitations of a data set\nStatistical analysis of water quality data to monitor pollutants\nTrend analysis to detect changes in invertebrate communities over time\nState of the resource reporting to quantify the health of a watershed\n\nAnalysis are supported with the creation of clear and informative visual representations of data\n\nMaps when spatial representation matters in the data\nDistributions when you have lots and lots of data points and want to study where and how the data points are distributed\nCorrelations identify relationships among multiple variables\nRankings compare the position or performance of multiple items with respect to each other"
+    "text": "Comprehensive analysis of environmental data to identify trends and gain insights\n\nSufficiency and power analysis to determine the strengths and limitations of a data set\nStatistical analysis of water quality data to monitor pollutants\nTrend analysis to detect changes in invertebrate communities over time\nState of the resource reporting to quantify the health of a watershed\n\n\n\nAnalysis are supported by clear and informative visual representations of data\n\nMaps when spatial representation matters in the data\nDistributions when you have lots and lots of data points and want to study where and how the data points are distributed\nCorrelations identify relationships among multiple variables\nRankings compare the position or performance of multiple items with respect to each other"
   },
   {
     "objectID": "services/services_dev.html",

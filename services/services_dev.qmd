@@ -7,7 +7,7 @@ about:
 
 ::: {.column-page}
 
-Development of powerful dashboards, databases, and tools to share data, tell stories and ensure consistency in analysis, reporting and data management
+### Development of powerful dashboards, databases, and tools to share data, tell stories and ensure consistency in analysis, reporting and data management
 
 -   Dashboards to share data, tell stories and engage with your audience
 -   Databases and data management systems to store valuable data, preserving it for the future and allowing easier usability
