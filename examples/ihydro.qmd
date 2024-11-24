@@ -1,0 +1,30 @@
+---
+title: "ihydro"
+subtitle: "R package for integrated hydrology tools for environmental science"
+---
+:::{.column-margin}
+[![](figures/ihydro/ihydro_logo.png)](https://github.com/p-schaefer/ihydro?tab=readme-ov-file#1-introduction)
+:::
+
+:::{.column-body}
+
+The [ihydro](https://github.com/p-schaefer/ihydro) R package was developed by **EcoPulse** in 2022 as a tool to simplify and standardize the complex calculation steps required for summarizing landscape information in a context relevant to aquatic ecosystems.
+
+Aquatic environmental scientists are often interested in relating landscape features to observed responses (fish size, water temperature, invertebrate community composition, etc.) in streams, rivers and lakes. The computational workflow for conducting these investigations is complex. Simply describing how water flows and accumulates across the landscape can be a challenge itself, but for aquatic scientists it is only the first step. The stream network must then be extracted from the landscape, and reaches (a.k.a. segments; i.e., stretches of river between two confluences) identified and given unique identifiers. These reaches must then be attributed to be informative (slope, stream order, upstream channel length, amount of upstream tree-cover, etc.); and upstream-downstream connectivity between reaches established.
+
+The complexity of this workflow can be a rate limiting step in the scope, content, quality, replicability, and applicability of investigations by aquatic environmental scientists. This tool was used extensively in the development of the [Ontario fish models](fishmodel.qmd)
+:::
+
+::: {layout-ncol=2}
+
+![Traced Flow Paths](figures/ihydro/ihydro_README-unnamed-chunk-11-1.png)
+
+![Weighted Landscape Predictors](figures/ihydro/ihydro_README-unnamed-chunk-21-1.png)
+
+:::
+
+::: {layout-ncol=1}
+
+![Final Landscape Predictions](figures/ihydro/ihydro_README-unnamed-chunk-30-1)
+
+:::

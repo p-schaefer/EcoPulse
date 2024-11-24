@@ -1,0 +1,34 @@
+---
+title: "Patrick Schaefer"
+about:
+  template: jolla
+  image: figures/Mayfly_crop_bg.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/p-schaefer
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/patrick-schaefer-66a72a59
+---
+
+Patrick Schaefer is an environmental scientist with over a decade of experience in public and private sectors. His expertise is in developing robust statistical tools, models and data-driven solutions to any environmental problem. He merges expertise in functional statistical programming, with open source tools and data sets to achieve robust and repeatable results for projects of any size and complexity.
+
+Patrick has worked in public and private sectors of the Canadian environmental field for over a decade, specializing in environmental monitoring and reporting. Patrick works with clients big and small, within any budget.
+
+## Education and Certifications
+
+University of Toronto
+M.Sc in Ecology and Evolutionary Biology | 2011 - 2014
+
+Canadian Aquatic Biomonitoring Network 
+Certified Instructor
+
+Ontario Benthos Biomonitoring Network 
+Certified Instructor
+
+Society for Freshwater Science 
+Family Level Certification
+
+Ontario Stream Assessment Protocol
+Crew Leader Certification

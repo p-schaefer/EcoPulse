@@ -1,0 +1,11 @@
+---
+title: "Examples"
+listing:
+  contents:
+    - "examples/*.qmd"
+  type: grid
+  grid-columns: 3
+  max-description-length: 1
+---
+:::{.column-screen}
+:::

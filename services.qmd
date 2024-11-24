@@ -1,0 +1,7 @@
+---
+title: "Services"
+listing:
+  contents:
+    - "services/*.qmd"
+  type: grid
+---

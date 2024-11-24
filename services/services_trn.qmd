@@ -1,0 +1,16 @@
+---
+title: "Training"
+image: figures/meeting-6004997_640.png
+about: 
+  template: trestles
+---
+
+::: {.column-page}
+
+Provide customized training to suit your needs
+
+-   Benthic invertebrate collection and identification
+-   Basic, intermediate and advanced R instruction
+-   Data management, data standards, and database development
+
+:::

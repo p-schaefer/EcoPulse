@@ -1,0 +1,12 @@
+---
+title: "EcoPulse"
+image: figures/mountain-8517546_640.jpg
+about: 
+  template: broadside
+---
+::: {.column-page}
+
+**EcoPulse** is a small environmental consulting company specialized in innovate problem solving to answer important environmental questions. My focus is on sharing the stories told by data in interactive and engaging formats. I achieve this through tool and dashboard development as well as robust statistical analysis. Scientific rigor and repeatability are a core focus of my work and I use primarily open-source tools and data to achieve this, providing both transparency and cost-savings.
+
+
+:::

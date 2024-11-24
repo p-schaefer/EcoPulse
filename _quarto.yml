@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+  # resources:
+  #   - resources/3 Overview of environmental study designs.pdf
+
+website:
+  title: "EcoPulse"
+  navbar:
+    #logo: "figures/logo.png"
+    #logo-href: home.qmd
+    pinned: true
+    collapse: true
+    background: info
+    search: false
+    left:
+      - text: Home
+        href: home.qmd
+      - text: "Services"
+        menu:
+         - text: Data Analysis and Visualization
+           href: services/services_DaVis.qmd
+         - text: Dashboard, Database and Tool Development
+           href: services/services_dev.qmd
+         - text: Training
+           href: services/services_trn.qmd
+      - text: Examples
+        href: examples.qmd
+      - text: About
+        href: contact.qmd
+  # cookie-consent:
+  #   type: express
+  #   style: headline
+  #   palette: dark
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    #toc: true
+
+editor: source
+

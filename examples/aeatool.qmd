@@ -1,0 +1,19 @@
+---
+title: "Aquatic Ecosystem Assessment Dashboard"
+subtitle: "Simplifying the reference condition approach for aquatic ecosystem assessments using benthic invertebrate communities"
+---
+:::{.column-margin}
+![Spider graph showing which components of the benthic invertebrate community are outside of reference conditions](figures/aeatool/spider1.png)
+:::
+
+:::{.column-body}
+The [Aquatic Ecosystem Assessment (AEA) Tool](https://ecopulse.shinyapps.io/aeatool_dev/) was developed in 2016. It provides an interactive dashboard and simplifies the complicated steps in performing aquatic ecosystem assessments using the reference condition approach (RCA). Users supply a table of benthic invertebrate community data, as well as relevant habitat data. The dashboard then calculated a wide array of summary metrics from the community data and provides a variety of visualization and transformation methods. If collection areas are identified as reference or exposed, a RCA can be performed using the Test Site Analysis (TSA) and Nearest-Neighbour site matching (NN). This dashboard provides many options for how these analysis can be performed, or provides heuristic algorithms for identifying suitable defaults. The final results are summarized using a series of informative graphics, ideal for visual story telling on the conditions of the aquatic community.
+:::
+
+::: {layout-ncol=2}
+
+![Nearest Neighbour Site Matching Dashboard](figures/aeatool/dashboard2.png)
+
+![Test Site Analysis Result Dashboard](figures/aeatool/dashboard1.png)
+
+:::

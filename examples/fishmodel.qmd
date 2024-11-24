@@ -1,0 +1,24 @@
+---
+title: "Machine Learning Model Predicting Ontario's Fish Populations"
+subtitle: "Filling the Gaps in Monitoring Ontario’s Fisheries Resources"
+---
+
+:::{.column-margin}
+![Tracey Saxby, Integration and Application Network (ian.umces.edu/media-library)](figures/fishmodels/river-3d-catchment.png)
+:::
+
+:::{.column-body}
+
+The goal of this project is to use data from [Ontario’s Aquatic Ecosystem Classification (AEC)](https://geohub.lio.gov.on.ca/maps/mnrf::aquatic-ecosystem-classification-aec-for-ontario/about) together with [Flowing Waters Information System (FWIS)](http://www.comap.ca/fwis/) to develop predictive models of fish communities across Ontario. The biomass and density of 12 fish taxa are modeled using AEC variables, as well as landcover summaries from the [Ontario Landcover Compilation (OLC)](https://geohub.lio.gov.on.ca/documents/7aa998fdf100434da27a41f1c637382c/about). Landcover types were summarized into different groups, as well as a Landscape Disturbance Index (LDI), which quantifies the potential impacts of different landcover types to aquatic ecosystems. Predictions  of current populations are available across all tributaries to the Great Lakes and St. Lawrence River. 
+
+This work is still ongoing, but preliminary results are available in an [interactive dashboard](http://comap.no-ip.biz:3838/pschaefer/Ontario_Fish_Model/).
+
+:::
+
+::: {layout-ncol=2}
+
+![Observed Brook Trout Density](figures/fishmodels/Picture2.png)
+
+![Predicted Brook Trout Density](figures/fishmodels/Picture3.png)
+
+:::

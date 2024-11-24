@@ -1,0 +1,32 @@
+---
+title: "Workshops"
+---
+:::{.column-margin}
+![](figures/rworkshop/tidyverse-icons-588235026.png)
+:::
+
+:::{.column-body}
+Co-lead a workshop in 2017 at the Ontario Benthos Biomonitoring Network Semi-Annual Biomonitoring Meeting on use of generalized linear mixed-effects models for investigating trends in long-term benthic datasets. This workshop highlighted the strengths of mixed-effects models in analysis of routine monitoring data, while providing easy to follow example scripts for users to learn the complexities of these models. A github repository containing all the training material is available [here](https://github.com/p-schaefer/RWorkshop). 
+:::
+
+::: {layout-ncol=2}
+
+![](figures/rworkshop/OBBN1.png)
+
+![](figures/rworkshop/Picture9.png)
+
+:::
+
+:::{.column-body}
+Co-lead a workshop in 2019 with the Southern Ontario Stream Monitoring and Research Team on environmental study designs. This two day workshop was about how data is being used to answer management and scientific questions, what tools are available to assist with this and how best to ensure questions can be answered with available resources. 
+:::
+
+::: {layout-ncol=3}
+
+![](figures/rworkshop/SOSMART1.png)
+
+![](figures/rworkshop/Picture7.png)
+
+![](figures/rworkshop/SOSMART2.png)
+
+:::

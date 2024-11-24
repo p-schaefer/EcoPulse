@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/examples.html",
+    "items": [
+      "/examples/aeatool.html",
+      "/examples/DataStreamrHelper.html",
+      "/examples/fishmodel.html",
+      "/examples/RWorkshop.html",
+      "/examples/ihydro.html"
+    ]
+  },
+  {
+    "listing": "/services.html",
+    "items": [
+      "/services/services_dev.html",
+      "/services/services_DaVis.html",
+      "/services/services_trn.html"
+    ]
+  }
+]

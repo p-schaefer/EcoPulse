@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Patrick Schaefer",
+    "section": "",
+    "text": "Patrick Schaefer is an environmental scientist with over a decade of experience in public and private sectors. His expertise is in developing robust statistical tools, models and data-driven solutions to any environmental problem. He merges expertise in functional statistical programming, with open source tools and data sets to achieve robust and repeatable results for projects of any size and complexity.\nPatrick has worked in public and private sectors of the Canadian environmental field for over a decade, specializing in environmental monitoring and reporting. Patrick works with clients big and small, within any budget."
+  },
+  {
+    "objectID": "contact.html#education-and-certifications",
+    "href": "contact.html#education-and-certifications",
+    "title": "Patrick Schaefer",
+    "section": "Education and Certifications",
+    "text": "Education and Certifications\nUniversity of Toronto M.Sc in Ecology and Evolutionary Biology | 2011 - 2014\nCanadian Aquatic Biomonitoring Network Certified Instructor\nOntario Benthos Biomonitoring Network Certified Instructor\nSociety for Freshwater Science Family Level Certification\nOntario Stream Assessment Protocol Crew Leader Certification"
+  },
+  {
+    "objectID": "examples/aeatool.html",
+    "href": "examples/aeatool.html",
+    "title": "Aquatic Ecosystem Assessment Dashboard",
+    "section": "",
+    "text": "Spider graph showing which components of the benthic invertebrate community are outside of reference conditions\n\n\n\nThe Aquatic Ecosystem Assessment (AEA) Tool was developed in 2016. It provides an interactive dashboard and simplifies the complicated steps in performing aquatic ecosystem assessments using the reference condition approach (RCA). Users supply a table of benthic invertebrate community data, as well as relevant habitat data. The dashboard then calculated a wide array of summary metrics from the community data and provides a variety of visualization and transformation methods. If collection areas are identified as reference or exposed, a RCA can be performed using the Test Site Analysis (TSA) and Nearest-Neighbour site matching (NN). This dashboard provides many options for how these analysis can be performed, or provides heuristic algorithms for identifying suitable defaults. The final results are summarized using a series of informative graphics, ideal for visual story telling on the conditions of the aquatic community.\n\n\n\n\n\n\n\nNearest Neighbour Site Matching Dashboard\n\n\n\n\n\n\n\nTest Site Analysis Result Dashboard"
+  },
+  {
+    "objectID": "examples/fishmodel.html",
+    "href": "examples/fishmodel.html",
+    "title": "Machine Learning Model Predicting Ontario’s Fish Populations",
+    "section": "",
+    "text": "Tracey Saxby, Integration and Application Network (ian.umces.edu/media-library)\n\n\n\nThe goal of this project is to use data from Ontario’s Aquatic Ecosystem Classification (AEC) together with Flowing Waters Information System (FWIS) to develop predictive models of fish communities across Ontario. The biomass and density of 12 fish taxa are modeled using AEC variables, as well as landcover summaries from the Ontario Landcover Compilation (OLC). Landcover types were summarized into different groups, as well as a Landscape Disturbance Index (LDI), which quantifies the potential impacts of different landcover types to aquatic ecosystems. Predictions of current populations are available across all tributaries to the Great Lakes and St. Lawrence River.\nThis work is still ongoing, but preliminary results are available in an interactive dashboard.\n\n\n\n\n\n\n\nObserved Brook Trout Density\n\n\n\n\n\n\n\nPredicted Brook Trout Density"
+  },
+  {
+    "objectID": "examples/ihydro.html",
+    "href": "examples/ihydro.html",
+    "title": "ihydro",
+    "section": "",
+    "text": "The ihydro R package was developed by EcoPulse in 2022 as a tool to simplify and standardize the complex calculation steps required for summarizing landscape information in a context relevant to aquatic ecosystems.\nAquatic environmental scientists are often interested in relating landscape features to observed responses (fish size, water temperature, invertebrate community composition, etc.) in streams, rivers and lakes. The computational workflow for conducting these investigations is complex. Simply describing how water flows and accumulates across the landscape can be a challenge itself, but for aquatic scientists it is only the first step. The stream network must then be extracted from the landscape, and reaches (a.k.a. segments; i.e., stretches of river between two confluences) identified and given unique identifiers. These reaches must then be attributed to be informative (slope, stream order, upstream channel length, amount of upstream tree-cover, etc.); and upstream-downstream connectivity between reaches established.\nThe complexity of this workflow can be a rate limiting step in the scope, content, quality, replicability, and applicability of investigations by aquatic environmental scientists. This tool was used extensively in the development of the Ontario fish models\n\n\n\n\n\n\n\nTraced Flow Paths\n\n\n\n\n\n\n\nWeighted Landscape Predictors\n\n\n\n\n\n\n\n\n\n\n\nFinal Landscape Predictions"
+  },
+  {
+    "objectID": "examples/RWorkshop.html",
+    "href": "examples/RWorkshop.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "Co-lead a workshop in 2017 at the Ontario Benthos Biomonitoring Network Semi-Annual Biomonitoring Meeting on use of generalized linear mixed-effects models for investigating trends in long-term benthic datasets. This workshop highlighted the strengths of mixed-effects models in analysis of routine monitoring data, while providing easy to follow example scripts for users to learn the complexities of these models. A github repository containing all the training material is available here.\n\n\n\n\n\n\n\n\n\n\n\n\nCo-lead a workshop in 2019 with the Southern Ontario Stream Monitoring and Research Team on environmental study designs. This two day workshop was about how data is being used to answer management and scientific questions, what tools are available to assist with this and how best to ensure questions can be answered with available resources."
+  },
+  {
+    "objectID": "examples.html",
+    "href": "examples.html",
+    "title": "Examples",
+    "section": "",
+    "text": "Aquatic Ecosystem Assessment Dashboard\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning Model Predicting Ontario’s Fish Populations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkshops\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nihydro\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "EcoPulse",
+    "section": "",
+    "text": "EcoPulse is a small environmental consulting company specialized in innovate problem solving to answer important environmental questions. My focus is on sharing the stories told by data in interactive and engaging formats. I achieve this through tool and dashboard development as well as robust statistical analysis. Scientific rigor and repeatability are a core focus of my work and I use primarily open-source tools and data to achieve this, providing both transparency and cost-savings."
+  },
+  {
+    "objectID": "services/services_DaVis.html",
+    "href": "services/services_DaVis.html",
+    "title": "Data Analysis and Visualization",
+    "section": "",
+    "text": "Comprehensive analysis of environmental data to identify trends and gain insights\n\nSufficiency and power analysis to determine the strengths and limitations of a data set\nStatistical analysis of water quality data to monitor pollutants\nTrend analysis to detect changes in invertebrate communities over time\nState of the resource reporting to quantify the health of a watershed\n\nAnalysis are supported with the creation of clear and informative visual representations of data\n\nMaps when spatial representation matters in the data\nDistributions when you have lots and lots of data points and want to study where and how the data points are distributed\nCorrelations identify relationships among multiple variables\nRankings compare the position or performance of multiple items with respect to each other"
+  },
+  {
+    "objectID": "services/services_dev.html",
+    "href": "services/services_dev.html",
+    "title": "Dashboard, Database and Tool Development",
+    "section": "",
+    "text": "Development of powerful dashboards, databases, and tools to share data, tell stories and ensure consistency in analysis, reporting and data management\n\nDashboards to share data, tell stories and engage with your audience\nDatabases and data management systems to store valuable data, preserving it for the future and allowing easier usability\nCustom analysis, visualization, mapping and data management tools to ensure consistency in analysis, reporting and data management"
+  },
+  {
+    "objectID": "services/services_trn.html",
+    "href": "services/services_trn.html",
+    "title": "Training",
+    "section": "",
+    "text": "Provide customized training to suit your needs\n\nBenthic invertebrate collection and identification\nBasic, intermediate and advanced R instruction\nData management, data standards, and database development"
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
+    "section": "",
+    "text": "Dashboard, Database and Tool Development\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Analysis and Visualization\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTraining\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]
